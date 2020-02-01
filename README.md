@@ -1,1 +1,1 @@
-# EquinorVolve-Pressure-Prediction
+# EquinorVolve-Pressure-Regression
